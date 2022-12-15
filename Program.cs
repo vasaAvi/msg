@@ -17,5 +17,9 @@ namespace ConsoleApponGithub
         {
             Console.WriteLine("hubuh");
         }
+         public static void add()
+        {
+            Console.WriteLine("hubuh");
+        }
     }
 }
